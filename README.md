@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+# Amigo Oculto Angola
 
-## Project info
+## 🎁 Sobre o Projeto
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Landing page oficial da aplicação **Amigo Oculto Angola** - uma aplicação mobile desenvolvida para facilitar, organizar e modernizar eventos de Amigo Oculto em Angola.
 
-## How can I edit this code?
+## 🎯 Objetivo
 
-There are several ways of editing your application.
+A aplicação centraliza toda a gestão de eventos de Amigo Oculto, oferecendo:
 
-**Use Lovable**
+- Criação de grupos com código exclusivo
+- Sorteio automático e secreto
+- Wishlist privada de presentes
+- Notificações e lembretes automáticos
+- Revelação programada
+- Gestão de participantes e admins
+- Suporte a moeda local (Kwanza – AOA)
+- Atualizações em tempo real
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 👥 Público-Alvo
 
-Changes made via Lovable will be committed automatically to this repo.
+- Famílias
+- Grupos de amigos
+- Empresas
+- Comunidades
+- Eventos especiais
 
-**Use your preferred IDE**
+## 🛠️ Tecnologias Utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **React** - Biblioteca JavaScript para interfaces
+- **TypeScript** - Superset tipado de JavaScript
+- **Vite** - Build tool rápido e moderno
+- **Tailwind CSS** - Framework CSS utilitário
+- **shadcn/ui** - Componentes UI reutilizáveis
+- **Lucide React** - Ícones modernos
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Como Executar
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# Clonar o repositório
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navegar para o diretório
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Instalar dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Iniciar servidor de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 📱 Status do Produto
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- ✅ Produto funcional
+- 🔄 Em fase final de testes
+- 🔒 Acesso controlado no momento
+- 🚀 Lançamento público em breve
 
-**Use GitHub Codespaces**
+## 🔒 Segurança
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Autenticação segura
+- Controle de permissões por grupo
+- Dados protegidos e encriptados
+- Apenas participantes veem suas informações
+- Infraestrutura moderna e escalável
 
-## What technologies are used for this project?
+## 🇦🇴 Desenvolvido em Angola
 
-This project is built with:
+Este projeto foi desenvolvido com foco no contexto angolano, incluindo suporte à moeda local (Kwanza - AOA) e adaptado às necessidades locais.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2024 Amigo Oculto Angola. Todos os direitos reservados.
